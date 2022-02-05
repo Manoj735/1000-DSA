@@ -86,8 +86,7 @@ git push -u origin <your_branch_name>
 
 <table>
 <tbody><tr>
-<td align="center"><a href="https://github.com/Manoj735"><img alt="" src="![image](https://user-images.githubusercontent.com/75479375/152631269-37a1d63b-5e29-475f-bb00-2b0938fd9730.png)" width="130px;"><br><sub><b> Mr. Ånand </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=Astrodevil" title="Code">🌝💻 </a></td> </a></td>
+<td align="center"><a href="https://github.com/Manoj735"><img alt="" src="https://avatars.githubusercontent.com/u/75479375?s=400&u=b59a552a2b395bd92a3c298d18cda441286a1d46&v=4" width="130px;"><br><sub><b>Manoj Prajapat </b></sub></a><br><a href="https://github.com/Manoj735/1000-DSA/commits?author=Manoj735" title="Code">🌝💻 </a></td> </a></td>
 
-<td align="center"><a href="https://github.com/NOiR-07"><img alt="" src="https://avatars.githubusercontent.com/u/73756334?v=4" width="130px;"><br><sub><b> Abhishek Kumar  </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projecs/commits?author=NOiR-07" title="Code">🌝💻 </a></td> </a></td>
 </tr>
 </tbody></table>
