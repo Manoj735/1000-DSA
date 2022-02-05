@@ -3,16 +3,18 @@
 
 # Contributing Guidelines📝
 
-Are we missing any of your favorite features, which you think you can add to it? For major changes, please open an issue first to discuss what you would like to change. You are welcome to contribute in this project. Pull requests are welcome.
+Firstly please give a star to repositery. you have write code of the following questions in it i will upload many more question in this repo from top most companies.
+Also you have to explain the code so other can easily understand this.
+If you will contribute you name and photo will come in contributer of repositery.
 
 To start contributing, follow the below guidelines: 
 
-**1.**  Fork [this](https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects) repository.
+**1.**  Fork [this](https://github.com/Manoj735/1000-DSA.git) repository.
 
 **2.**  Clone your forked copy of the project.
 
 ```
-git clone https://github.com/<your_user_name>/ZeroOctave-Javascript-Projects.git
+git clone https://github.com/<your_user_name>/1000-DSA.git
 ```
 
 **3.** Navigate to the project directory :file_folder: .
@@ -24,7 +26,7 @@ cd ZeroOctave-Javascript-Projects
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects.git 
+git remote add upstream https://github.com/Manoj735/1000-DSA.git 
 ```
 
 **5.** Check the remotes for this repository.
@@ -72,17 +74,11 @@ git push -u origin <your_branch_name>
 **14.** Click on `Create Pull Request`.
 
 
-**15.** Woohoo! You have made a PR to the ZeroOctave-Javascript-Projects :boom: . Wait for your submission to be accepted and your PR to be merged.
+**15.** Woohoo! You have made a PR to the 1000-DSA :boom: . Wait for your submission to be accepted and your PR to be merged.
 
 **Thank you for your interest in contributing to our Repo!🏼**
 
 **Kudos to you🎈**
-
-
-# This Will Help🌩️
-
-- *Why clone everything to the machine? Just press "." (dot) after opening the forked repo in a browser tab. See the Magic!🎉*
-- *Want to preview your live changes? Copy and paste the project.html URL into [GitHack](https://raw.githack.com/). You will get 2 URLs for production and development, copy and paste them into a new tab. See the Magic!🎉*
 
 
 
@@ -90,7 +86,7 @@ git push -u origin <your_branch_name>
 
 <table>
 <tbody><tr>
-<td align="center"><a href="https://github.com/Astrodevil"><img alt="" src="https://avatars.githubusercontent.com/u/73425223?v=4" width="130px;"><br><sub><b> Mr. Ånand </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=Astrodevil" title="Code">🌝💻 </a></td> </a></td>
+<td align="center"><a href="https://github.com/Manoj735"><img alt="" src="![image](https://user-images.githubusercontent.com/75479375/152631269-37a1d63b-5e29-475f-bb00-2b0938fd9730.png)" width="130px;"><br><sub><b> Mr. Ånand </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projects/commits?author=Astrodevil" title="Code">🌝💻 </a></td> </a></td>
 
 <td align="center"><a href="https://github.com/NOiR-07"><img alt="" src="https://avatars.githubusercontent.com/u/73756334?v=4" width="130px;"><br><sub><b> Abhishek Kumar  </b></sub></a><br><a href="https://github.com/ZeroOctave/ZeroOctave-Javascript-Projecs/commits?author=NOiR-07" title="Code">🌝💻 </a></td> </a></td>
 </tr>
