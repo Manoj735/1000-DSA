@@ -3,7 +3,7 @@
 
 # Contributing Guidelines📝
 
-Firstly please give a star to repositery. you have write code of the following questions in it i will upload many more question in this repo from top most companies.
+Firstly please give a star to repository. you have write code of the following questions in it i will upload many more question in this repo from top most companies.
 Also you have to explain the code so other can easily understand this.
 If you will contribute you name and photo will come in contributer of repository.
 
