@@ -5,7 +5,7 @@
 
 Firstly please give a star to repositery. you have write code of the following questions in it i will upload many more question in this repo from top most companies.
 Also you have to explain the code so other can easily understand this.
-If you will contribute you name and photo will come in contributer of repositery.
+If you will contribute you name and photo will come in contributer of repository.
 
 To start contributing, follow the below guidelines: 
 
@@ -20,7 +20,7 @@ git clone https://github.com/<your_user_name>/1000-DSA.git
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd ZeroOctave-Javascript-Projects
+cd 1000-DSA
 ```
 
 **4.** Add a reference(remote) to the original repository.
