@@ -90,3 +90,11 @@ git push -u origin <your_branch_name>
 
 </tr>
 </tbody></table>
+# Project Contributer🕵🏼‍♂
+
+<table>
+<tbody><tr>
+<td align="center"><a href="https://github.com/comrade-mishra"><img alt="" src="https://avatars.githubusercontent.com/u/62857931?v=4" width="80px;"><br><sub><b>Naman Mishra </b></sub></a><br>🌝💻 </a></td> </a></td>
+
+</tr>
+</tbody></table>
