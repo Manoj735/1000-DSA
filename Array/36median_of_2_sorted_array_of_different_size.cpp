@@ -1,5 +1,6 @@
-// time complexity is 0(m+n)
-
+// https://youtu.be/NTop3VTjmxk
+//  time complexity is 0(m+n)
+//  space 0(m+n)
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -55,8 +56,10 @@ int main()
     return 0;
 }
 
-// optimum approach
-
+// https://youtu.be/NTop3VTjmxk
+//  optimum approach
+//  0(min(logm, logn))
+//  space - > 0(1)
 #include <bits/stdc++.h>
 using namespace std;
 
