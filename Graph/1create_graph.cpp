@@ -7,7 +7,7 @@ using namespace std;
 // edge in a undirected graph
 
 void addEdge(vector<int> adj[], int u, int v){
-    adj[u].push_back(v);
+    adj[u].push_back(v); // This creates an vector connected with every element of the vector adj.
     adj[v].push_back(u);
 }
 
@@ -15,7 +15,7 @@ void addEdge(vector<int> adj[], int u, int v){
 // representation of graph
 
 void printGraph(vector <int> adj[], int V){
-    for (int v = 0; v < V; ++v){
+    for (int v = 0; v < V; ++v){ 
         cout << "\n Adjacency list of vertex "<< v;
         cout << "\n head";
 
