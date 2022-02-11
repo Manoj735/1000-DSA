@@ -1,3 +1,11 @@
+// Input:
+// N=3
+// Mat=[[1,5,3],[2,8,7],[4,6,9]]
+// Output:
+// 1 2 3
+// 4 5 6
+// 7 8 9
+
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -5,26 +13,55 @@ using namespace std;
 
 class Solution
 {
-    vector<vector<int>> sortmatrix(int n, vector<vector<int>> mat)
+public:
+    vector<vector<int>> sortedMatrix(int N, vector<vector<int>> Mat)
     {
-        vector<int> v;
-        for (int i = 0; i < n; i++)
+        // code here
+        vector<int> ans;
+
+        for (int i = 0; i < N; i++)
         {
-            for (int j = 0; j < n; j++)
+            for (int j = 0; j < N; j++)
             {
-                v.push_back(mat[i][j]);
+                ans.push_back(Mat[i][j]);
             }
         }
-        sort(v.begin(), v.end());
-        int k = 0;
-        for (int i = 0; i < n; i++)
+
+        sort(ans.begin(), ans.end());
+
+        for (int i = 0; i < N; i++)
         {
-            k = i * n;
-            for (int j = 0; j < n; j++)
+            for (int j = 0; j < N; j++)
             {
-                mat[i][j] = v[k + j];
+                Mat[i][j] = ans[i * N + j];
             }
         }
-        return mat;
+
+        return Mat;
     }
 };
+
+// { Driver Code Starts.
+
+int main()
+{
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int N;
+        cin >> N;
+        vector<vector<int>> v(N, vector<int>(N));
+        for (int i = 0; i < N; i++)
+            for (int j = 0; j < N; j++)
+                cin >> v[i][j];
+        Solution ob;
+        v = ob.sortedMatrix(N, v);
+        for (int i = 0; i < N; i++)
+        {
+            for (int j = 0; j < N; j++)
+                cout << v[i][j] << " ";
+            cout << "\n";
+        }
+    }
+}
