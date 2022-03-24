@@ -39,6 +39,9 @@ int height_of_tree(Node *root)
 int main()
 {
     Node *root = createnode(1);
+    root->left = createnode(2);
+    root->right = createnode(3);
+    root->left->left = createnode(4);
     cout << "Height of tree is " << height_of_tree(root);
     return 0;
 }
