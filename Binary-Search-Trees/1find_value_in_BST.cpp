@@ -75,7 +75,7 @@ void inorder(Node *root)
 
 void insert(Node *root, int k){
     if(root == NULL){
-        return newnode;
+        return;
     }
 }
 

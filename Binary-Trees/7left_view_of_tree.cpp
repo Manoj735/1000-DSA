@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 class Node
 {
 public:
@@ -8,7 +7,6 @@ public:
     Node *left;
     Node *right;
 };
-
 Node *createnode(int data)
 {
     Node *newnode = new Node();
@@ -16,7 +14,6 @@ Node *createnode(int data)
     newnode->left = newnode->right = NULL;
     return newnode;
 }
-
 void leftView(Node *root, int level, int *max_level)
 {
     if (root == NULL)
